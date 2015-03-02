@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mollie Games</string>
+
+    <string name="hello_world">Welcome!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_first_balloon">My First Game</string>
+    <string name="title_activity_first_balloon">FirstBalloonActivity</string>
+
+    <string name="first_balloon_instructions">Tap the balloons to pop them!</string>
+</resources>
